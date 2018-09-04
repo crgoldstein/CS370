@@ -1,6 +1,3 @@
-README
-======
-
 Assignment: 
 	The objective of this assignment is a simple refresher on memory allocations and deallocations using C.
 
