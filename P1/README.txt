@@ -27,8 +27,10 @@ To compile:
     gcc *.c
 
 To run:
-    ./a.out <seed>
+    ./Driver.out <seed>
 
 For example;
-    ./a.out 1234
+    ./Driver.out 1234
+    
+    
 
